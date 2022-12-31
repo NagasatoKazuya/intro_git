@@ -1,3 +1,4 @@
 こんにちは
 わわわわー
 git 練習
+gir remove
